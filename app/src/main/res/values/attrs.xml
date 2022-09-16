@@ -13,6 +13,7 @@
         <attr name="chart_LineWidth" format="dimension"/>
         <attr name="chart_SelectorIndicator" format="reference" />
         <attr name="chart_SelectorIndicatorHeight" format="dimension" />
+        <attr name="chart_SelectorLineColor" format="color" />
 
     </declare-styleable>
 
