@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ChartView">
+
+        <attr name="chart_HorizontalPadding" format="integer" />
+        <attr name="chart_BottomPadding" format="integer" />
+        <attr name="chart_HeightFraction" format="fraction" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:fontFamily" />
+        <attr name="chart_LineColor" format="color"/>
+        <attr name="chart_LineWidth" format="dimension"/>
+        <attr name="chart_SelectorIndicator" format="reference" />
+        <attr name="chart_SelectorIndicatorHeight" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
