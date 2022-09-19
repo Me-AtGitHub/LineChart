@@ -16,7 +16,6 @@ import android.view.ViewGroup
 import android.widget.RelativeLayout
 import android.widget.TextView
 import androidx.appcompat.content.res.AppCompatResources
-import com.au.mylibrary.R
 
 class ChartView : RelativeLayout {
 
